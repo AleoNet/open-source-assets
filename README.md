@@ -1,3 +1,7 @@
+![Mainnet-OS-assets-banner](https://github.com/AleoNet/open-source-assets/blob/main/github-readme-graphic.jpg?raw=true)
+
+___
+
 # Mainnet Is Live! Spread The Word!
 
 ## _Wen Mainnet? Now._
