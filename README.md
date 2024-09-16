@@ -12,7 +12,7 @@ We’d love for you to be a part of this special moment and help us spread the w
 
 Inside this pack are ready-to-post graphics with different kinds of messaging that you can choose from to make your own celebratory statement.
 
-## _The Mainnet Design Pack_
+## _[The Mainnet Design Pack](https://github.com/AleoNet/open-source-assets/tree/main/Aleo%20Mainnet%20Design%20Pack)_
 
 With this pack, you can create your own assets with Aleo’s brand style to spread the word your own way. From Font files, to logo files,  to branded templates — it’s all here. We’re excited to see what you come up with!
 
