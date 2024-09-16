@@ -4,7 +4,7 @@
 
 We’d love for you to be a part of this special moment and help us spread the word, so we created a two asset packs that you can use right now:
 
-## _The Mainnet Graphics Pack_
+## _[The Mainnet Graphics Pack](https://github.com/AleoNet/open-source-assets/tree/main/Aleo%20Mainnet%20Graphics%20Pack)_
 
 Inside this pack are ready-to-post graphics with different kinds of messaging that you can choose from to make your own celebratory statement.
 
